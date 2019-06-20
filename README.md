@@ -64,3 +64,8 @@ I want to create a page for users which will act as a "Book"
 
 - link `next` from `2.1` refers to Chapter `3`
 - link `prev` from `4` refers to Book Part `Part 2`
+
+### References:
+
+ - idea: https://mentalhealth.inquiry.govt.nz/inquiry-report/he-ara-oranga/
+   - created completely manually
