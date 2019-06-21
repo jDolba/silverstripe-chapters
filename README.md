@@ -7,14 +7,14 @@ As CMS Content Author
 I want to create a page for users which will act as a "Book"
 
 - Book consists of different page types like:
-  - Front Page
+  - Front Page (which is part of Book Page type itself)
   - Chapters Page
   - Sub-Chapters Page
   - Table of Contents Page
     - based on book part with possibility to add Content as Block?
     - one per Book?
-  - Book Part Page (base type)
-- Book has simple Front-Page based on standard PageType
+  - Simple Page
+- Book has simple Front-Page based on standard Page Type
 - Front-Page has possibility (checkbox in CMS) to show Minimalistic Table of Content of the Book 
 - each Book Part is simle page with heading: is is used as name of given part of the Book 
 - Name of Book Part is used as part of Table of Contents
